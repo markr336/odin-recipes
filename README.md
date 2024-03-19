@@ -1,5 +1,5 @@
 # odin-recipes: 1st Project
-
+[Click here to view project](https://markr336.github.io/odin-recipes/)
 Very Basic HTML Recipes page. Project will contain a main index page that has links to a few recipes.<br>
 **Skills demonstrated**:
 * Boilerplate

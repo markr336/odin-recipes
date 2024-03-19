@@ -10,5 +10,6 @@ Skills demonstrated:
   Images
 
 Reflection:
-
+ > Need to write down steps of pushing/commiting
+ > Look at  branches if you can't see any changes after push
 

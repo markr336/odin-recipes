@@ -2,12 +2,12 @@
 
 Very Basic Recipes page.
 Project will contain a main index page that has links to a few recipes.
-Skills demonstrated:<br>
-  Boilerplate<br>
-  Text<br>
-  Lists<br>
-  Links<br>
-  Images<br>
+Skills demonstrated:
+* Boilerplate
+* Text
+* Lists
+* Links
+* Images
 
 Reflection:<br>
   Need to write down steps of pushing/commiting<br>

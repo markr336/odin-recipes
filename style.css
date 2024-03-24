@@ -1,0 +1,46 @@
+/* General Selectors */
+
+h1,
+h2,
+h3,
+p {
+    text-align: center;
+}
+
+/* Centres images */
+img {
+    display: block;
+    margin: 0 auto;
+
+}
+
+ul {
+    width: 150px;
+    margin: 0 auto;
+    padding-left: 0;
+    list-style-type: none;
+    text-align: center;
+}
+
+ol {
+    width: 300px;
+    margin: 0 auto;
+}
+
+
+/* index.html */
+
+.home-list {
+    width: 115px;       /* Need to specify width to horizontally adjust. */
+    margin: 0 auto;     /* Horizontally adjusts */
+    padding-left: 0;    /* Removes the spacing where the bullet points were.*/
+}
+
+
+.list {
+    text-align: center;
+}
+
+
+/* eggs.html */
+
